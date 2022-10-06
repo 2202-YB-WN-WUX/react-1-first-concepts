@@ -1,4 +1,10 @@
 # React basic concepts
+This project contains basic examples of:
+- components
+- useState
+- onClicks
+- functions
+- modals
 
 ## How to start the app
 
