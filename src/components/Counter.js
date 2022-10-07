@@ -1,6 +1,9 @@
+// declaring our useState hook
 import { useState } from 'react'
 
 const Counter = () => {
+    // the first name is the variable (count)
+    // the second name is the function name, which changes the variable
     const [count, setCount] = useState(0)
 
     const increaseCount = () => {
