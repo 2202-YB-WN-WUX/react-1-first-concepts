@@ -1,6 +1,5 @@
 import { useState } from 'react'
 
-
 const ModalWindow = () => {
     return (
         <div id="modal">

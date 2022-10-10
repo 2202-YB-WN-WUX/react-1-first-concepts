@@ -1,3 +1,4 @@
+import { Component } from "react";
 import addTwoNumbers from ".././utilities/add"
 // <> these are called react fragments 
 // They sit in as parent elements, which are required to be around JSX
@@ -35,3 +36,11 @@ const Hero = () => {
 }
 
 export default Hero;
+
+// *** Activity ***:
+
+// - Create a Gallery Component. 
+// - Insert it into the main app.
+// - It should display 3 different images.
+// Break your gallery component up so it contains 3 different components. Title, GalleryImages, and ContactInfo.
+// - Contact info should show some placeholder text.

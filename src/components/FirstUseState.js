@@ -3,8 +3,6 @@
 // they help us grab specific things from an object
 import { useState } from 'react'
 
-
-
 const FirstUseState = () => {
     // the first variable is the name of the state
     // the second variable is a function which changes the state

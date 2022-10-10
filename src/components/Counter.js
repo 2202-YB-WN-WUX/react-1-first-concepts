@@ -16,7 +16,8 @@ const Counter = () => {
             <p>This counter uses useState to increment itself</p>
             <p id="count">{count}</p>
             <button onClick={increaseCount}>+1</button>
-            <button onClick={() => { setCount(count - 1) }}>-1</button>
+            <button onClick={ () => { setCount(count - 1) }
+                }>-1</button>
         </div>
     )
 }

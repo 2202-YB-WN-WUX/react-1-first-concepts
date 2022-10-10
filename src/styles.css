@@ -97,3 +97,9 @@ h1 {
         transform: translateX(-100%);
     }
 }
+
+.car {
+    padding: 30px;
+    border: 1px solid aquamarine;
+    margin-top: 30px;
+}
